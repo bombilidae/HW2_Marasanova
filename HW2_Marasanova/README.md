@@ -9,3 +9,5 @@
 - Екатерина Марасанова - team-lead - функция main_func, README.md
 - Виолетта Штоль - разработка функции деления (`divide`)
 - Иванкова Олеся - функция add, сложение
+- Ситькова Дарья - функция subtract, вычитание
+- <img width="1920" height="1080" alt="созвон" src="https://github.com/user-attachments/assets/2c59469f-1949-417e-bea3-7be885784c83" />
